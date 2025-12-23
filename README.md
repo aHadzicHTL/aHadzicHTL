@@ -1,6 +1,6 @@
 ![Almir Hadzic Software Developer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Almir%20Hadzic&fontAlign=51&fontSize=60&descAlign=50&desc=Software%20Developer&descAlignY=54&fontAlignY=40&textBg=false)
 
-## Tech Skills
+## Programming Languages
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="100px"/>
@@ -14,7 +14,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="100px"/>  
 </div>
 
-## Dev Ops
+## Frameworks & Databases
+
+
+## Tools & Dev Ops
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="100px"/>     
